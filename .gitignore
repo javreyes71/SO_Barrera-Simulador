@@ -1,0 +1,7 @@
+# Ignorar ejecutables y objetos
+*.o
+*.exe
+sim
+test_barrera
+a.out
+
